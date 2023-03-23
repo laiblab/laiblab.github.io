@@ -1,0 +1,36 @@
+- title: "Assessing Biomaterial-induced Stem Cell Lineage Fate by Machine Learning-based Artificial Intelligence"
+  image: MeD-P-workflow.png
+  description: We report a computational framework for biomaterial-induced cell lineage fate prediction, termed MeD-P. We demonstrate that MeD-P is an efficient and accurate strategy for stem cell lineage fate prediction and preliminary biomaterial functional evaluation.
+  authors: Yingying Zhou *, Xianfeng Ping *, Yusi Guo *, Boon Chin Heng, Yijun Wang, Yanze Meng, Shengjie Jiang, Yan Wei, Binbin Lai #, Xuehui Zhang #, Xuliang Deng #
+  link:
+    url: https://doi.org/10.1002/adma.202210637
+    display: Advanced materials. (2023)
+  highlight: 1
+
+- title: "Transcription factors TCF-1 and GATA3 are key factors for the epigenetic priming of early innate lymphoid progenitors toward distinct cell fates"
+  image: EILP-ILC-priming.png
+  description: Using multiple advanced epigenomic sequencing technologies, we report the celular heterogeneity on epigenome in early innate lymphoid progenitors which affects the downstream lineage differentiation. We show how key transcription factor TCF1 regulate the epigenomic heterogeneity and differentiation towards ILC progenitors.
+  authors: Ren G *, Lai B *, Harly C, Baek S, Ding Y, Zheng M, Cao Y, Cui K, Yang Y, Zhu J, Hager GL, Bhandoola A, Zhao K.
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S1074761322002928?via%3Dihub
+    display: Immunity (2023)
+  highlight: 1
+
+- title: "Principles of nucleosome organization revealed by single-cell micrococcal nuclease sequencing"
+  image: nucleosome_organization.jpg
+  description: We report a technique, termed single-cell micrococcal nuclease sequencing (scMNase-seq) that can be used to simultaneously measure genome-wide nucleosome positioning and chromatin accessibility in single cells. We reveal novel principles of nucleosome organization related to chromatin activity and report the existence of cells primed for differentiation to specific lineages in undifferentiated cell populations.
+  authors: Lai B, Gao W, Cui K, Xie W, Tang Q, Jin W, Hu G, Ni B, Zhao K
+  link:
+    url: https://www.nature.com/articles/s41586-018-0567-3
+    display: Nature (2018)
+  highlight: 1
+  
+- title: "Trac-looping measures genome structure and chromatin accessibility"
+  image: Trac-looping.png
+  description: We report transposase-mediated analysis of chromatin looping (Trac-looping) for simultaneous detection of multiscale genome-wide chromatin interactions among regulatory elements and chromatin accessibility. Application of Trac-looping to human CD4+ T cells revealed substantial reorganization of enhancer-promoter interactions associated with changes in gene expression after T cell receptor stimulation.
+  authors: Lai B *, Tang Q *, Jin W *, Hu G *, Wangsa D, Cui K, Stanton BZ, Ren G, Ding Y, Zhao M, Liu S, Song J, Ried T, Zhao K
+  link:
+    url: https://www.nature.com/articles/s41592-018-0107-y
+    display:  Nature Methods (2018)
+  highlight: 1
+  

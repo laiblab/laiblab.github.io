@@ -1,0 +1,29 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+- name: Jie Tian
+  photo: Tianjie.jpeg
+  info: PhD student, started Sep 2020
+
+- name: Yu Yang
+  photo: Yangyu.png
+  info: PhD student, started Sep 2021
+  
+- name: Qianming Xiang
+  photo: Qianming.png
+  info: PhD Student, started Sep 2021
+
+- name: Gefei Zhao
+  photo: Gefei.png
+  info: PhD Student, started Sep 2022
+
+- name: Hongyue Zhao
+  photo: Hongyue.png
+  info: Master Student, started Sep 2022
+
