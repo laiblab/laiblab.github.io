@@ -6,7 +6,7 @@ permalink: /pictures/
 ---
 
 # Pictures
-Jump to: [Our Lab](#our-lab), [Westlake](#westlake-university), [School of Life Sciences](#school-of-life-sciences)
+
 
 ## Our Lab
 <figure>
