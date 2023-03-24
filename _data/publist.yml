@@ -1,7 +1,7 @@
 - title: "Assessing Biomaterial-induced Stem Cell Lineage Fate by Machine Learning-based Artificial Intelligence"
   image: MeD-P-workflow.png
   description: We report a computational framework for biomaterial-induced cell lineage fate prediction, termed MeD-P. We demonstrate that MeD-P is an efficient and accurate strategy for stem cell lineage fate prediction and preliminary biomaterial functional evaluation.
-  authors: Yingying Zhou *, Xianfeng Ping *, Yusi Guo *, Boon Chin Heng, Yijun Wang, Yanze Meng, Shengjie Jiang, Yan Wei, Binbin Lai '#', Xuehui Zhang '#', Xuliang Deng '#'
+  authors: Yingying Zhou *, Xianfeng Ping *, Yusi Guo *, Boon Chin Heng, Yijun Wang, Yanze Meng, Shengjie Jiang, Yan Wei, Binbin Lai &dagger, Xuehui Zhang &dagger, Xuliang Deng &dagger
   link:
     url: https://doi.org/10.1002/adma.202210637
     display: Advanced materials. (2023)
