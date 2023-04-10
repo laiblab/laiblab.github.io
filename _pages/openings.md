@@ -18,7 +18,7 @@ permalink: /positions/
 　We aim at building a supportive and productive team. Successful candidates will have the chance to work on the grand challenges of genomics, epigenetics, development and cancers. Applicants for other relevant projects and programs will be encouraged and supported. 
 
 　If you are interested in joining us, please send me an [email](mailto:laib@bjmu.edu.cn) along with a brief cover letter, a detailed CV and at least two recommendation letters. Please indicate "Application Postdoc (Your name)" in the email subject. You can find the current job posting here with detailed compensation and benefits:
-[Opening for Postdocs]({{ site.baseurl }}) or [博后招聘启事]({{ site.baseurl }}). 
+[Opening for Postdocs]({{ site.baseurl }}) or [博后招聘启事]({{ site.baseurl }}/downloads/赖彬彬实验室博士后招聘启事.pdf). 
 
 
 <!-- <figure> -->
