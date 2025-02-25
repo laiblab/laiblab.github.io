@@ -9,7 +9,7 @@ permalink: /
 # Welcome to Lai Lab at PKU
 
 
-We are a research group in the [BioMedical Engineering Department](https://bme.bjmu.edu.cn/) and [International Cancer Institute](https://pkuici.bjmu.edu.cn/) at Peking University. Our lab is primarily a computational biology/bioinformatic group with both 'wet' and 'dry' labs that develop and use a wide range of genomic and epigenomic sequencing technologies along with bioinformatic methods to explore biomedical questions. Our aim is to explore and understand transcriptomic and epigenetic regulation in both normal and abnormal cells in varied life process. Despite of almost the same copies of genome, cells from different tissues, developmental stages or healthy status display varied functions and phenotypes mainly due to differential gene transcription, in which chromatin and epigenetic regulation plays key roles. Therefore, We are focusing on (but not restricted to) studying how cell fates are controlled by chromatin and epigenome in human health and disorders to provide novel therapy directions to fight against diseases. <br /> 
+We are a research group in the [BioMedical Engineering Department, Institute of advanced clinical medicine](https://iacm.bjmu.edu.cn/) and [International Cancer Institute](https://pkuici.bjmu.edu.cn/) at Peking University. Our lab is primarily a computational biology/bioinformatic group with both 'wet' and 'dry' labs that develop and use a wide range of genomic and epigenomic sequencing technologies along with bioinformatic methods to explore biomedical questions. Our aim is to explore and understand transcriptomic and epigenetic regulation in both normal and abnormal cells in varied life process. Despite of almost the same copies of genome, cells from different tissues, developmental stages or healthy status display varied functions and phenotypes mainly due to differential gene transcription, in which chromatin and epigenetic regulation plays key roles. Therefore, We are focusing on (but not restricted to) studying how cell fates are controlled by chromatin and epigenome in human health and disorders to provide novel therapy directions to fight against diseases. <br /> 
 　
 
 
@@ -43,17 +43,18 @@ We are a research group in the [BioMedical Engineering Department](https://bme.b
 Our lab currently focus on the following directions:
 1.	Develop new experimental and computational methods for genomic, transcriptomic and epigenomic profiling of bulk and single cells;
 2.	Explore the mechanisms and principles of the cell fate generation, maintainance and transition in varied life process and disease;
-3.	Single-cell atlas profiling of skins, thymus, and cancers.
+3.	Multi-omic cell atlas profiling of skins, thymus, and cancers.
 
 
  **We are looking for passionate new PhD students, Postdocs, and Research Assistants to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/positions) **!**
 
 
 ## Funding:
-We are grateful for funding from NSFC.
+We are grateful for funding from NSFC and MOST.
 
 <figure class="fourth">
 <img src="{{ site.url }}{{ site.baseurl }}/images/National_Natural_Science_Foundation_of_China_logo.png" style="width: 140px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/R-C.jpeg" style="width: 140px">
 <!-- </figure> -->
 
 ## Collaborators:
