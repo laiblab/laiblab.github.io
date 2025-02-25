@@ -7,9 +7,6 @@
 #  education2:
 #  education3:
 #  education4:
-- name: Jie Tian
-  photo: Tianjie.jpeg
-  info: PhD student, started Sep 2020
 
 - name: Yu Yang
   photo: Yangyu.png
@@ -30,5 +27,5 @@
 - name: Xuemei Tian
   photo: Xuemei.png
   info: PhD Student, started Sep 2024
-  
+
 
