@@ -1,3 +1,20 @@
+- title: "A distinct subgroup with Schwann-like differentiation presents immune resistance and poor prognosis in Plantar melanoma"
+  image:
+  description: A thourough characterization of Schwann-like subtype of planter melanoma which is related to worse progression and poor prognosis. A novel TF HGMA2 was reported to play an important role in regulate the subtype.
+  authors: Jie Tian *, Lu Zhang *, Le Zhuang, Pingping Lin, Shenxi Zhang, Yicen Yan, Yu Yang, Guohong Zhang ^, Hang Li ^, and Binbin Lai ^
+  link:
+    display: Accepted in Theranostics (2025)
+  highlight: 1
+
+- title: "Spatiotemporal Molecular Architecture of Lineage Allocation and Cellular Organization in Tooth Morphogenesis"
+  image:
+  description: We described an cellular atlas for characterizing the tooth morphogenesis using both single-cel RNA-seq and spatio transcriptome techniques.  
+  authors: Shengjie Jiang, Yuning Zhang, Huimin Zheng, Kai Zhao, Yue Yang, Binbin Lai ^, Xuliang Deng ^, and Yan Wei ^
+  link:
+    url: https://doi.org/10.1002/advs.202403627
+    display: Advanced Science. (2024)
+  highlight: 1
+
 - title: "Assessing Biomaterial-induced Stem Cell Lineage Fate by Machine Learning-based Artificial Intelligence"
   image: MeD-P-workflow.png
   description: We report a computational framework for biomaterial-induced cell lineage fate prediction, termed MeD-P. We demonstrate that MeD-P is an efficient and accurate strategy for stem cell lineage fate prediction and preliminary biomaterial functional evaluation.
