@@ -1,3 +1,12 @@
+- title: "SC-VAR: a computational tool for interpreting polygenic disease risks using single-cell epigenomic data"
+  image: BIB_Fig1.png
+  description: We present SC-VAR, a novel computational tool designed to enhance the interpretation of disease-associated risks from GWAS using single-cell epigenomic data. SC-VAR leverages single-cell epigenomic data to predict functional outcomes including risk genes, pathways, and cell types for both coding and noncoding disease-associated variants.
+  authors: Gefei Zhao and Binbin Lai
+  link:
+    url: https://doi.org/10.1093/bib/bbaf123
+    display: Briefings in Bioinformatics (2025)
+  highlight: 1
+
 - title: "A distinct subgroup with Schwann-like differentiation presents immune resistance and poor prognosis in Plantar melanoma"
   image: AM.png
   description: A thourough characterization of Schwann-like subtype of planter melanoma which is related to worse progression and poor prognosis. A novel TF HGMA2 was reported to play an important role in regulate the subtype.
