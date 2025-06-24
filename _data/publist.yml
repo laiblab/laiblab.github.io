@@ -1,3 +1,12 @@
+- title: "scNucMap: mapping the nucleosome landscapes at single-cell resolution"
+  image: scNucMap.png
+  description: We present presents scNucMap, a tool designed for scMNase-seq data to map candidate nucleosome-free regions (NFRs), showing superior cell clustering performance over Signac and chromVAR across diverse samples. scNucMap identifies transcription factors associated with nucleosome depletion at CREs for cell-type annotation and regulatory network inference, and its application to scATAC-seq enriches nucleosome architecture analysis, demonstrating cross-modality versatility. 
+  authors: Qianming Xiang and Binbin Lai
+  link:
+    url: https://doi.org/10.1093/bioinformatics/btaf324
+    display: Bioinformatics (2025)
+  highlight: 1
+
 - title: "SC-VAR: a computational tool for interpreting polygenic disease risks using single-cell epigenomic data"
   image: BIB_Fig1.png
   description: We present SC-VAR, a novel computational tool designed to enhance the interpretation of disease-associated risks from GWAS using single-cell epigenomic data. SC-VAR leverages single-cell epigenomic data to predict functional outcomes including risk genes, pathways, and cell types for both coding and noncoding disease-associated variants.
