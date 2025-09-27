@@ -1,3 +1,12 @@
+- title: "A comparative transcriptomic analysis at single-cell resolution reveals acral melanoma features distinct from cutaneous melanoma"
+  image: compare_MM.jpg
+  description: We conduct a comparative analysis between acral melanoma and cutaneous melanoma in single-cell transcriptomic level, revealed and characterized MPZ+ melanoma as an AM-specific melanoma that is related to worse prognosis in AM.
+  authors: Hongyue Zhao *, Jie Tian *, Hang Li ^, and Binbin Lai^
+  link:
+    url: http://article.cjcrcn.org/article/doi/10.21147/j.issn.1000-9604.2025.04.09
+    display: Chin J Cancer Res (2025)
+  highlight: 1
+
 - title: "scNucMap: mapping the nucleosome landscapes at single-cell resolution"
   image: scNucMap.png
   description: We present presents scNucMap, a tool designed for scMNase-seq data to map candidate nucleosome-free regions (NFRs), showing superior cell clustering performance over Signac and chromVAR across diverse samples. scNucMap identifies transcription factors associated with nucleosome depletion at CREs for cell-type annotation and regulatory network inference, and its application to scATAC-seq enriches nucleosome architecture analysis, demonstrating cross-modality versatility. 
